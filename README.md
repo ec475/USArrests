@@ -1,4 +1,4 @@
-# US Arrests Capstone Data Analysis
+# US Arrests Capstone Data Visualisation
 
 This project includes visualisation of data about US arrests in 1973. 
 
