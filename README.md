@@ -15,9 +15,6 @@ Installation
 
 Running the program
 
-### Credits
-
-
 ## Project Description
 
 This is a Capstone project I completed in the Hyperion Dev Data Science Bootcamp. It contains visualisation of a dataset about arrests for violent crime in the 50 states of the USA in 1973. The dataset can be found here: https://www.kaggle.com/datasets/halimedogan/usarrests.
