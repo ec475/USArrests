@@ -15,6 +15,8 @@ Installation
 
 Running the program
 
+### Credits
+
 ## Project Description
 
 This is a Capstone project I completed in the Hyperion Dev Data Science Bootcamp. It contains visualisation of a dataset about arrests for violent crime in the 50 states of the USA in 1973. The dataset can be found here: https://www.kaggle.com/datasets/halimedogan/usarrests.
@@ -35,3 +37,8 @@ This project should be installed in the same folder as the csv document containi
 
 ### Running the program
 Running the program will generate output within the ipynb document.
+
+## Credits
+Code: Emma Grace Carey
+Dataset: https://www.kaggle.com/datasets/halimedogan/usarrests
+Shapefile: https://www2.census.gov/geo/tiger/TIGER2022/STATE/
